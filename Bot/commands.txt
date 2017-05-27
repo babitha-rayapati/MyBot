@@ -1,0 +1,18 @@
+hello
+invisible
+exit
+yes
+time
+chrome
+facebook
+thankyou
+lock
+internet
+stop
+show commands
+maximize
+minimize
+hide commands
+quiet
+new commands
+files

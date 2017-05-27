@@ -1,0 +1,13 @@
+G:\projects\Bot\Bot\bin\Debug\Bot.exe.config
+G:\projects\Bot\Bot\bin\Debug\Bot.exe
+G:\projects\Bot\Bot\bin\Debug\Bot.pdb
+G:\projects\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+G:\projects\Bot\Bot\obj\Debug\Bot.Form1.resources
+G:\projects\Bot\Bot\obj\Debug\Bot.Properties.Resources.resources
+G:\projects\Bot\Bot\obj\Debug\Bot.csproj.GenerateResource.Cache
+G:\projects\Bot\Bot\obj\Debug\Bot.exe
+G:\projects\Bot\Bot\obj\Debug\Bot.pdb
+G:\projects\Bot\Bot\obj\Debug\Bot.Login.resources
+G:\projects\Bot\Bot\obj\Debug\Bot.first.resources
+G:\projects\Bot\Bot\obj\Debug\Bot.add_commands.resources
+G:\projects\Bot\Bot\obj\Debug\Bot.signUp.resources
